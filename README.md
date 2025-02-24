@@ -1,0 +1,1 @@
+For use with full length 16S microbiome data. You will need to clone the mcsmrt repository as well as the report script located in this repository. Additionally you must have Pacbio SMRT Link software running version 11.
